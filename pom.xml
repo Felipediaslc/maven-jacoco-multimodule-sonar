@@ -24,6 +24,9 @@
     </modules>
 
     <properties>
+        <sonar.projectKey>multimodule-sonar</sonar.projectKey>
+        <sonar.host.url>http://ip172-18-0-18-c1m9mbpbqvp0009gjdn0-9000.direct.labs.play-with-docker.com</sonar.host.url>
+        <sonar.login>a450fdf09971ada943210c7e02e1478af0969ae3</sonar.login>
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
